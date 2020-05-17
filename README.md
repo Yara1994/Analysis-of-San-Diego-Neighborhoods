@@ -2,7 +2,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-## Introduction/Business Problem
+## Introduction
 
 I live in San Diego, CA.
 So, i've decided to explore and analyze neighborhoods in this wonderful city to understand, is it any correlation between median household income and amount of schools in this neighborhood.
@@ -14,5 +14,7 @@ The main question is:
 # Does it mean that in the richest neighborhoods more and better schools than in Poorest Neighborhoods?.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
+
+## Target Audience:
 
 
