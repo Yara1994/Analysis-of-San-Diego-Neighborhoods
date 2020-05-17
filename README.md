@@ -9,7 +9,7 @@ So, i've decided to explore and analyze neighborhoods in this wonderful city to 
 
 The main question is:
 
-# Does it mean that in the richest neighborhoods more and better schools than in Poorest Neighborhoods?.
+# Does it mean that in the richest neighborhoods more and better schools than in Poorest Neighborhoods?
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ obtain necessary data, analyze it and, finally be able to tell a story out of it
 ## GeoJSON file
 
 I found the great GeoJSON file [Zillow Neighborhoods](https://data.opendatasoft.com/explore/dataset/zillow-neighborhoods%40public/information/) that consists of all USA Neighborhoods with latitude and longitude information. 
-After filtering and cleaning data we get dataframe with all neighborhoods (121) in San Diego City (NOT COUNTY!).
+After filtering and cleaning data we get dataframe with all neighborhoods in San Diego City (NOT COUNTY!).
 
 ![San_Diego_Neighborhoods_DF](Images/San_Diego_Neighborhoods_DF.PNG)
 
@@ -39,9 +39,35 @@ Then we scraped [Richest Neighborhoods In San Diego For 2020](https://www.homesn
 
 I had to merge 2 above dataframes to get final dataframe that we will work with.
 
-![Completed_San_Diego_Neighborhoods_DF](Image/Completed_San_Diego_Neighborhoods_DF.PNG)
+![Completed_San_Diego_Neighborhoods_DF](Images/Completed_San_Diego_Neighborhoods_DF.PNG)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Foursquare Data
+
+Finally, I make use of Foursquare API to obtain the 100 most common venues within 1 kilometer of each major district.
 
 
 
