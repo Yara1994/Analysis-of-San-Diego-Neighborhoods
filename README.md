@@ -138,9 +138,29 @@ Let's explore closer each Cluser:
 
 ![Cluster_2](Images/Cluster_2.PNG)
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
+# Results
 
 
+The resutls of the exploratory data analysis and clustering are summarized below--
 
+* Richest Neighborhoods has more schools then Poorest Neighborhoods.
+
+* Elementary Schools top the charts of most common schools in the Richest and Poorest Neighborhoods. 
+
+* Carmel Mountain and Rancho Penasquitos has more schools then other neighborhoods.
+
+* Richest Neighborhoods has more High Schools.
+
+* Poorest Neighborhoods has more Elementary Schools.
+
+
+# Conclusion
+
+We have got a small glimpse of how real life data-science projects look like.I have made use of some frequently used python librairies to scrap web-data, use Foursquare API to explore the San Diego Neighborhoods and saw the results of segmanetation of Neighborhoods using Folium leaflet map.
+
+Finally, If you have kids and you are planning to move in San Diego, you can find the best and right place for you, using this analysis.
 
 
 
