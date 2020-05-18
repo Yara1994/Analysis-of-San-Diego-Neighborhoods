@@ -5,7 +5,7 @@
 ## Introduction
 
 I live in San Diego, CA.
-So, i've decided to explore and analyze neighborhoods in this wonderful city to understand, is it any correlation between median household income and amount of schools in this neighborhood.
+So, i have decided to explore and analyze neighborhoods in this wonderful city to understand, is it any correlation between median household income and amount of schools in this neighborhood.
 
 The main question is:
 
@@ -143,7 +143,7 @@ Let's explore closer each Cluser:
 # Results
 
 
-The resutls of the exploratory data analysis and clustering are summarized below--
+The resutls of the exploratory data analysis and clustering are summarized below:
 
 * Richest Neighborhoods has more schools then Poorest Neighborhoods.
 
