@@ -55,7 +55,7 @@ After manipulation with data we create 2 separate dataframes: 10 Richest Neighbo
 
 ![Vizualisation_Poorest_San_Diego_Neighborhoods](Images/Vizualisation_Poorest_San_Diego_Neighborhoods.PNG)
 
-**We can see, the Poorest Neighborhoods located closer to Downtown and near Mexico border, the Richest are close to the ocean and north of all other neighborhoods.*
+**We can see, the Poorest Neighborhoods located closer to Downtown and near Mexico border, the Richest are close to the ocean and north of all other neighborhoods.**
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
