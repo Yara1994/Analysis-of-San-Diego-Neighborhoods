@@ -122,7 +122,22 @@ Finally, we try to cluster Richest and poorest neighborhoods based on the freque
 
 ![Vizualisation_Clustering](Images/Vizualisation_Clustering.PNG)
 
-Here the **radius of the circles represent the amount of schools.** The color represesnts clusters (
+Here the **radius of the circles represent the amount of schools.** The **color represesnts clusters (Red - Cluster 0, Purple - Cluster 1, Green - Cluster 2).**
+
+Let's explore closer each Cluser:
+
+## Cluster 0
+
+![Cluster_0](Images/Cluster_0.PNG)
+
+## Cluster 1
+
+![Cluster_1](Images/Cluster_1.PNG)
+
+## Cluster 2
+
+![Cluster_2](Images/Cluster_2.PNG)
+
 
 
 
